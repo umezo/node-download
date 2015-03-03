@@ -4,7 +4,7 @@
   "description": "utility for download something",
   "main": "node-download.js",
   "scripts": {
-    "test": "npm test"
+    "test": "mocha test/*.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +18,9 @@
   "bugs": {
     "url": "https://github.com/umezo/node-download/issues"
   },
-  "homepage": "https://github.com/umezo/node-download"
+  "homepage": "https://github.com/umezo/node-download",
+  "devDependencies": {
+    "expect.js": "~0.3.1",
+    "mocha": "~2.1.0"
+  }
 }
