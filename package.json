@@ -1,0 +1,22 @@
+{
+  "name": "node-download",
+  "version": "1.0.0",
+  "description": "utility for download something",
+  "main": "node-download.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/umezo/node-download.git"
+  },
+  "keywords": [
+    "download"
+  ],
+  "author": "umezo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/umezo/node-download/issues"
+  },
+  "homepage": "https://github.com/umezo/node-download"
+}
